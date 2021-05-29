@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning HTML and CSS
-- 💬 Ask me about anything! Ill try my best to help you 😀
+- 💬 Ask me about anything! I will try my best to help you 😀
 - 📫 You can reach me at letchumanan.mlm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most people cant pronounce or spell my name right the first time 😂
