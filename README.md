@@ -22,6 +22,6 @@
   
 ##
 <h3>Connect with me:</h3>
-<a href="https://www.instagram.com/letchumananmuthiah/" target="blank">
+<a href="https://www.instagram.com/letchumananmuthiah/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" height="35"></a>
 
